@@ -1,0 +1,7 @@
+name: WarpPlugin
+version: 1.0
+author: Itz_Amine
+main: mr.warp.plugin.MainClass
+commands:
+  setwarp:
+  warp:
